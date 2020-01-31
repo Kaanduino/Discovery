@@ -19,7 +19,7 @@ Prototipleme Kartı Kodlama Programı: Arduino IDE
 Şematik Tasarım Programı: Fritzing 
 Paletli Şasi 3 Boyutlu Modeli: RC Tank by Staind is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
 Robot Kol 3 Boyulu Modeli: EEZYbotARM by daGHIZmo is licensed under the Creative Commons - Attribution - Non-Commercial license
-Şematik Gösterim
+
 Şematik gösterim tam boyutu ile bu linkten erişilebilir:
 https://github.com/Kaanduino/Discovery/blob/master/Discovery%20Fritzing.png
  
