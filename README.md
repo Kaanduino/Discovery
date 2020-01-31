@@ -20,3 +20,4 @@ Robot Kol 3 Boyulu Modeli: EEZYbotARM by daGHIZmo is licensed under the Creative
 Şematik Gösterim
 Şematik gösterim tam boyutu ile bu linkten erişilebilir:
 https://github.com/Kaanduino/Discovery/blob/master/Discovery%20Fritzing.png
+ 
