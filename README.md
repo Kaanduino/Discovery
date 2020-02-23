@@ -3,9 +3,10 @@
 Discovery Paletli Araç Projesi
 Bu proje Roboted grubu tarafından İsmet ÇÜÇEN rehberliğinde Alanya'da Uğur Ata GÖK ve Süleyman Kaan ÇAKMAK tarafından 2019 2020 yılları arasında hazırlanmıştır.
 
-Android uygulaması .apk dosyası olarak linkten indirip kurabilirsiniz:
+ Android uygulaması .apk dosyası olarak linkten indirip kurabilirsiniz:
 https://github.com/Kaanduino/Discovery/blob/master/Diskonrtol.apk
-Şematik gösterim tam boyutu ile linkten erişilebilir:
+
+ Şematik gösterim tam boyutu ile linkten erişilebilir:
 https://github.com/Kaanduino/Discovery/blob/master/Discovery%20Fritzing.png
  
 Parça Tedarikçileri
